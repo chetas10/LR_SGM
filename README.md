@@ -1,1 +1,1 @@
-# LR_SGM
+LR project at SGM
